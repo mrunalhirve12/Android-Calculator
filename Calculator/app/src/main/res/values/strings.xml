@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="enter_operand_1_in_decimal_ex_1_0">Enter Operand 1 in Decimal (ex 1.0)</string>
+</resources>
